@@ -131,7 +131,7 @@ input, select, textarea {
     margin-top: 20px;
     border-radius: 5px; 
     border: none;
-    background: #26a9e0; 
+    background:crimson;
     text-decoration: none;
     font-size: 15px;
     font-weight: 400;
@@ -145,7 +145,7 @@ input, select, textarea {
     width: 100%;
     }
     button:hover, .btn-item:hover {
-    background: #85d6de;
+    background:darkred;
     }
     @media (min-width: 568px) {
     html, body {
